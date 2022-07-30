@@ -1,4 +1,4 @@
-<img src="https://scontent.flko6-1.fna.fbcdn.net/v/t1.6435-9/53241734_1503430826454649_571300989047406592_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=174925&_nc_ohc=Bbl6xLHck-EAX8T6HF4&_nc_ht=scontent.flko6-1.fna&oh=00_AT-TQ2VXHq75Oxy5O1zVrqoA46PGyb1PgzuOUNYLALnK4A&oe=630C5E6F" width="50%" height="50%" alt="Syed Ashraf" />
+<canter><img src="https://scontent.flko6-1.fna.fbcdn.net/v/t1.6435-9/53241734_1503430826454649_571300989047406592_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=174925&_nc_ohc=Bbl6xLHck-EAX8T6HF4&_nc_ht=scontent.flko6-1.fna&oh=00_AT-TQ2VXHq75Oxy5O1zVrqoA46PGyb1PgzuOUNYLALnK4A&oe=630C5E6F" width="40%" height="40%" alt="Syed Ashraf" /></center>
 <h1 align="center">Hi 👋, I'm Syed Ashraf</h1>
 <h3 align="center">A passionate Full Stack Engineer from India</h3>
 
