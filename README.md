@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **Anything**
 
-- 📫 How to reach me **syedashraf.123.123@gmail.com**
+- 📫 How to reach me **syed.ashraf.mca@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1t8vXRKQU5raSm__hwkwrElBznlz9dB4h/view?usp=sharing](https://drive.google.com/file/d/1t8vXRKQU5raSm__hwkwrElBznlz9dB4h/view?usp=sharing)
 
