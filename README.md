@@ -1,4 +1,4 @@
-<p align="center"><img src="https://asset.cloudinary.com/dksa2jaqg/c3aa1315fddb474afe34ebd8f27d36c2" width="30%" height="30%" alt="Syed Ashraf" /></p>
+<p align="center"><img src="https://res.cloudinary.com/dksa2jaqg/image/upload/v1725477874/53241734_1503430826454649_571300989047406592_n_q2octu.jpg" width="30%" height="30%" alt="Syed Ashraf" /></p>
 <h1 align="center">Hi 👋, I'm Syed Ashraf</h1>
 <h3 align="center">A Talented Full Stack Engineer from India</h3>
 
